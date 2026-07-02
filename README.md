@@ -24,6 +24,6 @@
 - **HCIA-Datacom** — Huawei (2025)
 - **Python Essentials 1** — Cisco (2025)
 
-- ## 📫 Me contacter
+## 📫 Me contacter
 
-- 📧 mariam.etudit077@gmail.com · 🌐 [Mon portfolio](https://github.com/mariama-03/Mon-portfolio)
+📧 mariam.etudit077@gmail.com · 🌐 [Mon portfolio](https://github.com/mariama-03/Mon-portfolio)
